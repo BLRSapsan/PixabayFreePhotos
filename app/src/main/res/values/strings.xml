@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pixabay Free Photos</string>
+    <string name="error_download">Ошибка загрузки</string>
+    <string name="reload">Повторить</string>
+</resources>
